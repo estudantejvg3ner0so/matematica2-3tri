@@ -1,0 +1,15 @@
+function mensagem(){
+    console.log("olá")
+}
+
+mensagem();
+
+function calculo(){
+    return 60+7
+}
+console.log(calculo());
+
+function somar(a, b){
+return a + b
+}
+console.log(somar(49,18))
